@@ -1,0 +1,14 @@
+state={
+	id=71
+	name="STATE_71"
+	provinces={
+		1048 1257 1442 
+	}
+	history={
+		owner = RSM
+		add_core_of = RSM
+	}
+	state_category = city
+	manpower=213453
+	buildings_max_level_factor=1.000
+}

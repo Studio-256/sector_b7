@@ -1,0 +1,16 @@
+
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		709 853 1494 1611 1702 2014 2053 2098 
+	}
+	history={
+		owner = SEC
+		add_core_of = SEC
+	}
+	impassable = yes
+	state_category = enclave
+	manpower=2394380
+	buildings_max_level_factor=1.000
+}

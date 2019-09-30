@@ -1,0 +1,14 @@
+state={
+	id=30
+	name="STATE_30"
+	provinces={
+		312 1615 1913 1921 1953 
+	}
+	history={
+		owner = WOR
+		add_core_of = WOR
+	}
+	state_category = rural
+	manpower=230240
+	buildings_max_level_factor=1.000
+}

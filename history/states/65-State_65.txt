@@ -1,0 +1,15 @@
+state={
+	id=65
+	name="STATE_65"
+	provinces={
+		38 42 542 793 1169 1189 
+	}
+	history={
+		owner = WPR
+		add_core_of = WPR
+		add_core_of = SVA
+	}
+	state_category = city
+	manpower=811680
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,7 @@
+COM = "countries/Compia.txt"
+FIR = "countries/Forest-Imbiria.txt"
+RSM = "countries/SteelMountain.txt"
+SEC = "countries/Security.txt"
+WIN = "countries/Windcape.txt"
+WOR = "countries/Worbia.txt"
+WPR = "countries/Warag-Pomorje.txt"

@@ -1,0 +1,14 @@
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		296 580 736 1203 1234 2057 2082 
+	}
+	history={
+		owner = RSM
+		add_core_of = RSM
+	}
+	state_category = town
+	manpower=332019
+	buildings_max_level_factor=1.000
+}

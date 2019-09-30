@@ -1,0 +1,14 @@
+state={
+	id=64
+	name="STATE_64"
+	provinces={
+		464 941 1456 
+	}
+	history={
+		owner = RSM
+		add_core_of = RSM
+	}
+	state_category = town
+	manpower=220429
+	buildings_max_level_factor=1.000
+}

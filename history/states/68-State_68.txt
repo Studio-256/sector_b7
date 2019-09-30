@@ -1,0 +1,15 @@
+state={
+	id=68
+	name="STATE_68"
+	provinces={
+		447 650 750 2042 2043 2046 2055 
+	}
+		history={
+		owner = RSM
+		add_core_of = RSM
+		add_core_of = SVA
+	}
+	state_category = rural
+	manpower=1156940
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=31
+	name="STATE_31"
+	provinces={
+		813 936 1193 1290 1937 
+	}
+	history={
+		owner = WPR
+		add_core_of = WPR
+		add_core_of = SVA
+	}
+	state_category = town
+	manpower=345367
+	buildings_max_level_factor=1.000
+}

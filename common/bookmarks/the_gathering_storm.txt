@@ -1,0 +1,44 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 2014.6.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "WIN"
+		default = yes
+		
+		
+		"WIN"={
+			history = "WIN_GATHERING_STORM_DESC"
+			ideology = socialism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}	
+		}
+		"SUN"={
+			history = "BOF_GATHERING_STORM_DESC"
+			ideology = liberalism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}	
+		}
+		"PHR"={
+			history = "XIA_GATHERING_STORM_DESC"
+			ideology = socdem
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}	
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}

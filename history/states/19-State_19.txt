@@ -1,0 +1,16 @@
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		1875 
+	}
+	history={
+		owner = COM
+		add_core_of = COM
+		add_core_of = WOR
+		add_core_of = YNT
+	}
+	state_category = pastoral
+	manpower=19038
+	buildings_max_level_factor=1.000
+}

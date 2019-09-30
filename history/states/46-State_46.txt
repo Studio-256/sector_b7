@@ -1,0 +1,14 @@
+state={
+	id=46
+	name="STATE_46"
+	provinces={
+		517 643 1132 1217 1229 1944 
+	}
+	history={
+		owner = WOR
+		add_core_of = WOR
+	}
+	state_category = town
+	manpower=602839
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=66
+	name="STATE_66"
+
+	history={
+		owner = WPR
+		victory_points = {
+			269 10 
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+			269 = {
+				naval_base = 5
+
+			}
+
+		}
+		add_core_of = WPR
+		add_core_of = POM
+
+	}
+
+	provinces={
+		77 269 282 671 1050 1068 1128 1734 2089 2101 
+	}
+	manpower=519340
+	buildings_max_level_factor=1.000
+	state_category=city
+}

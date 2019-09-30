@@ -1,0 +1,16 @@
+
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		77 78 269 389 561 671 686 784 1050 1068 1109 1123 1224 1350 1667 1699 1965 2002 2003 2023 2034 2089 2101 
+	}
+	history={
+		owner = FIR
+		add_core_of = FIR
+		add_core_of = IMB
+	}
+	state_category = city
+	manpower=453400
+	buildings_max_level_factor=1.000
+}

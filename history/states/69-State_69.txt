@@ -1,0 +1,14 @@
+state={
+	id=69
+	name="STATE_69"
+	provinces={
+		2393 
+	}
+	history={
+		owner = WIN
+		add_core_of = WIN
+	}
+state_category = town
+	manpower=10000
+	buildings_max_level_factor=1.000
+}

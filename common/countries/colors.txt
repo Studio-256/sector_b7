@@ -1,0 +1,33 @@
+COM = {
+	color = rgb { 49 62 198 }
+	color_ui = rgb { 25 31 99 }
+}
+FIR = {
+	color = rgb { 234 158 96 }
+	color_ui = rgb { 117 77 48 }
+}
+
+RSM = {
+	color = rgb { 216 57 0 }
+	color_ui = rgb { 108 28 0 }
+}
+
+SEC = {
+	color = rgb { 10 5 0 }
+	color_ui = rgb { 5 2 0 }
+}
+
+WIN = {
+	color = rgb { 255 238 0 }
+	color_ui = rgb { 127 110 0 }
+}
+
+WOR = {
+	color = rgb { 156 77 193 }
+	color_ui = rgb { 75 38 91 }
+}
+
+WPR = {
+	color = rgb { 47 181 23 }
+	color_ui = rgb { 23 90 11 }
+}

@@ -1,0 +1,31 @@
+state={
+	id=74
+	name="STATE_74"
+	provinces={
+		506 
+	}
+	manpower=539103
+	history={
+		owner = WIN
+		victory_points = {
+			506 50
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 8
+			506 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = WIN
+		add_core_of = WPR
+		add_core_of = SVA
+		add_core_of = POM
+		add_core_of = RSM
+	}
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

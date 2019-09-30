@@ -1,0 +1,14 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		1512 
+	}
+	history={
+		owner = COM
+		add_core_of = COM
+	}
+	state_category = metropolis
+	manpower=664930
+	buildings_max_level_factor=1.000
+}

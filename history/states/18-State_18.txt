@@ -1,0 +1,18 @@
+
+state={
+	id=18
+	name="STATE_18"
+
+	history={
+		owner = COM
+		add_core_of = COM
+
+	}
+
+	provinces={
+		322 758 823 1179 1406 1577 1663 1861 1870 1892 1923 
+	}
+	manpower=60102
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,14 @@
+state={
+	id=75
+	name="STATE_75"
+	provinces={
+		2394 
+	}
+	history={
+		owner = WOR
+		add_core_of = WOR
+	}
+	state_category = large_city
+	manpower=445469
+	buildings_max_level_factor=1.000
+}

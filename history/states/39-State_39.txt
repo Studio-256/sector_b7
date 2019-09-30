@@ -1,0 +1,14 @@
+state={
+	id=39
+	name="STATE_39"
+	provinces={
+		326 366 767 840 1409 1537 1982 
+	}
+	history={
+		owner = RSM
+		add_core_of = RSM
+	}
+	state_category = rural
+	manpower=112023
+	buildings_max_level_factor=1.000
+}

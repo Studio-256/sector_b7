@@ -1,0 +1,16 @@
+
+state={
+	id=2
+	name="STATE_2"
+	provinces={
+		11 45 98 190 231 313 512 544 614 664 747 878 881 986 1078 1343 1457 1551 1595 1738 1803 1814 
+	}
+	history={
+		owner = SEC
+		add_core_of = SEC
+	}
+	impassable = yes
+	state_category = enclave
+	manpower=524143
+	buildings_max_level_factor=1.000
+}

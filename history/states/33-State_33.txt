@@ -1,0 +1,15 @@
+state={
+	id=33
+	name="STATE_33"
+	provinces={
+		503 515 715 889 1070 1216 1452 1526 1598 1969 
+	}
+	history={
+		owner = FIR
+		add_core_of = FIR
+		add_core_of = FRE
+	}
+	state_category = rural
+	manpower=341009
+	buildings_max_level_factor=1.000
+}
